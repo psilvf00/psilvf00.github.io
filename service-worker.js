@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f32df1845c5c4155fed3417d463e0efe.js"
+  "/precache-manifest.54c2895ccdd5d827c3e5f9c767f55cf7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "petsafe"});
